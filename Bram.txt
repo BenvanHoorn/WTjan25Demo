@@ -1,1 +1,4 @@
 Dit is een bestand van Bram
+fuction foo(){
+  console.log("Hello");
+}
